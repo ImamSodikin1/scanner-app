@@ -1,6 +1,7 @@
-<center># scanner-app</center>
+# scanner-app
 
-<center>## Main UI</center>
-
+## Main UI
 
 ![](SSmain.jpeg)
+![](SSgenerator.jpeg)
+![](SSscan.jpeg)
