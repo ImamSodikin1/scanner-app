@@ -1,4 +1,5 @@
-# scanner-app
+# <center>scanner-app</center>
 
-## Main UI
-[https://github.com/ImamSodikin1/scanner-app/blob/main/SSmain.jpeg]
+## <center>Main UI</center>
+
+![Main UI]([https://github.com/logos/github-logo.png](https://github.com/ImamSodikin1/scanner-app/blob/main/SSmain.jpeg)https://github.com/ImamSodikin1/scanner-app/blob/main/SSmain.jpeg)
